@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LOGIN</string>
+    <string name="login">SIGN IN</string>
+    <string name="welcome">WELCOME!</string>
+    <string name="logout">LOGOUT</string>
+    <string name="tv_username">Username:</string>
+    <string name="tv_password">Password:</string>
+    <string name="bt_log">Login</string>
+    <string name="bt_bos">Exit</string>
+    <string name="bt_reg">Register</string>
+    <string name="bt_forg">Forgot Password?</string>
+    <string name="et_username">Email</string>
+    <string name="et_password">Password</string>
+</resources>
